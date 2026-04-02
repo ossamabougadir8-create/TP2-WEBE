@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <Title>contacter le professeur</Title>
+    </head>
+    <body>
+        <h2>envoyer un message au professeur</h2>
+        <form>
+            <label>Nom:</label><br>
+            <input type="text" name="Nom"><br><br>
+            <label>Email:</label><br>
+            <input type="email" name="Email"><br><br>
+            <label>message:</label><br>
+            <textarea name="message" rows="5" cols="30"></textarea><br><br>
+            <input type="submit" value="Envyer">
+        </form>
+
+    </body>
+</html>
